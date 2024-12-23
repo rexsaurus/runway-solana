@@ -11,3 +11,16 @@ Get your RunwayML key from RunwayML
 https://docs.dev.runwayml.com/
 
 You have to have RunwayML credits
+
+Clone repo >>
+
+npm install >> in runwayml-server
+node server.js 
+
+This runs the backend server
+
+In another window, (terminal)
+Go to the folder for wallet-movie
+Run by doing npm install
+Then "run npm dev"
+
